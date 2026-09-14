@@ -26,7 +26,7 @@ Simulador de gestión de pedidos para una pizzería en Java utilizando dos pilas
 
 ### 1. Registro de Pedido
 Muestra el ingreso del nombre y el arreglo de 3 ingredientes en la pila principal.
-![Registro de Pedido] (Ejecucion.1.jpeg)
+![Registro de Pedido] (registro.jpeg)
 
 ### 2. Deshacer Pedido (Undo)
 Se ejecuta la opción 2 para retirar el pedido de la pila principal y enviarlo a la pila secundaria.
