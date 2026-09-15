@@ -38,4 +38,4 @@ Se ejecuta la opción 3 para recuperar el pedido deshecho desde la pila secundar
 ---
 
 ## Sustentación Individual
-* **Video de Sustentación:** []
+* **Video de Sustentación:** [https://youtu.be/I_lyoARq1yY?si=qK6aqsi4tcdIM9_B]
